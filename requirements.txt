@@ -1,0 +1,25 @@
+# Core
+torch
+torchvision
+torchaudio
+
+# Data handling
+pandas
+numpy
+requests
+
+# Modeling and metrics
+scikit-learn
+matplotlib
+seaborn
+
+# Streamlit app
+streamlit
+plotly
+
+# Utilities
+tqdm
+python-dotenv
+
+# Jupyter notebook
+ipykernel
